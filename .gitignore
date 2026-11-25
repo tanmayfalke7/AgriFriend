@@ -1,0 +1,7 @@
+data/chroma_db/
+data/uploads/
+data/generated_audio/
+.env
+__pycache__/
+.venv/
+tmp/
